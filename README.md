@@ -8,6 +8,7 @@ If you want to cut to the chase and examine our dataset of subway fare evasion a
 
 # Notebooks
 If you wish to recreate the analysis from scratch, the notebooks are intended to be used in this manner:
+
 First:
 
 	Arrest data filtering -> fare evasion arrests
