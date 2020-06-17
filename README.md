@@ -10,12 +10,10 @@ If you want to cut to the chase and examine our dataset of subway fare evasion a
 If you wish to recreate the analysis from scratch, the notebooks are intended to be used in this manner:
 
 First:
-
 	Arrest data filtering -> fare evasion arrests
 	Assign arrests to stations -> arrests at each station
 
 Then:
-
 	Turnstile data cleaning -> gets and cleans turnstile data from the MTA
 	Merge arrests and turnstile swipes -> combine turnstile data and arrests at stations
 
@@ -25,5 +23,4 @@ Next:
 	Assign ACS data to stations -> combines ACS data with stations based on assigned tracts
 
 Finally:
-	
 	Perform data analysis using the other notebooks
