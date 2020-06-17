@@ -22,3 +22,5 @@ Next:
 	Merge arrests and turnstile swipes -> combine turnstile data and arrests at stations
 
 Finally:
+	
+	Perform data analysis using the other notebooks
