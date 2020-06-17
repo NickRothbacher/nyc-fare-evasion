@@ -17,10 +17,12 @@ First:
 Then:
 
 	Turnstile data cleaning -> gets and cleans turnstile data from the MTA
+	Merge arrests and turnstile swipes -> combine turnstile data and arrests at stations
 
 Next:
-
-	Merge arrests and turnstile swipes -> combine turnstile data and arrests at stations
+	Compile ACS data -> compiles data tables for each census tract
+	Assign census tracts to stations -> uses locations of census tracts to assign them to stations in area
+	Assign ACS data to stations -> combines ACS data with stations based on assigned tracts
 
 Finally:
 	
