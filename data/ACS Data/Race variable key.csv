@@ -1,0 +1,41 @@
+﻿Name,Label
+B02001_001E,Est: Total
+B02001_001EA,Annotation of Est: Total
+B02001_001M,MoE: Total
+B02001_001MA,Annotation of MoE: Total
+B02001_002E,Est: Total: White alone
+B02001_002EA,Annotation of Est: Total: White alone
+B02001_002M,MoE: Total: White alone
+B02001_002MA,Annotation of MoE: Total: White alone
+B02001_003E,Est: Total: Black or African American alone
+B02001_003EA,Annotation of Est: Total: Black or African American alone
+B02001_003M,MoE: Total: Black or African American alone
+B02001_003MA,Annotation of MoE: Total: Black or African American alone
+B02001_004E,Est: Total: American Indian and Alaska Native alone
+B02001_004EA,Annotation of Est: Total: American Indian and Alaska Native alone
+B02001_004M,MoE: Total: American Indian and Alaska Native alone
+B02001_004MA,Annotation of MoE: Total: American Indian and Alaska Native alone
+B02001_005E,Est: Total: Asian alone
+B02001_005EA,Annotation of Est: Total: Asian alone
+B02001_005M,MoE: Total: Asian alone
+B02001_005MA,Annotation of MoE: Total: Asian alone
+B02001_006E,Est: Total: Native Hawaiian and Other Pacific Islander alone
+B02001_006EA,Annotation of Est: Total: Native Hawaiian and Other Pacific Islander alone
+B02001_006M,MoE: Total: Native Hawaiian and Other Pacific Islander alone
+B02001_006MA,Annotation of MoE: Total: Native Hawaiian and Other Pacific Islander alone
+B02001_007E,Est: Total: Some other race alone
+B02001_007EA,Annotation of Est: Total: Some other race alone
+B02001_007M,MoE: Total: Some other race alone
+B02001_007MA,Annotation of MoE: Total: Some other race alone
+B02001_008E,Est: Total: Two or more races
+B02001_008EA,Annotation of Est: Total: Two or more races
+B02001_008M,MoE: Total: Two or more races
+B02001_008MA,Annotation of MoE: Total: Two or more races
+B02001_009E,Est: Total: Two or more races: Two races including Some other race
+B02001_009EA,Annotation of Est: Total: Two or more races: Two races including Some other race
+B02001_009M,MoE: Total: Two or more races: Two races including Some other race
+B02001_009MA,Annotation of MoE: Total: Two or more races: Two races including Some other race
+B02001_010E,"Est: Total: Two or more races: Two races excluding Some other race, and three or more races"
+B02001_010EA,"Annotation of Est: Total: Two or more races: Two races excluding Some other race, and three or more races"
+B02001_010M,"MoE: Total: Two or more races: Two races excluding Some other race, and three or more races"
+B02001_010MA,"Annotation of MoE: Total: Two or more races: Two races excluding Some other race, and three or more races"

@@ -1,0 +1,41 @@
+one query per county
+
+RACE:
+https://api.census.gov/data/2015/acs/acs5?get=group(B02001)&for=tract:*&in=state:36&in=county:005&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B02001)&for=tract:*&in=state:36&in=county:047&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B02001)&for=tract:*&in=state:36&in=county:061&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B02001)&for=tract:*&in=state:36&in=county:081&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B02001)&for=tract:*&in=state:36&in=county:085&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+
+HISPANIC OR LATINO BY RACE:
+https://api.census.gov/data/2015/acs/acs5?get=group(B03002)&for=tract:*&in=state:36&in=county:005&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B03002)&for=tract:*&in=state:36&in=county:047&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B03002)&for=tract:*&in=state:36&in=county:061&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B03002)&for=tract:*&in=state:36&in=county:081&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=group(B03002)&for=tract:*&in=state:36&in=county:085&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+
+POVERTY STATUS (TOTAL):
+https://api.census.gov/data/2015/acs/acs5?get=B17001_002E&for=tract:*&in=state:36&in=county:005&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001_002E&for=tract:*&in=state:36&in=county:047&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001_002E&for=tract:*&in=state:36&in=county:061&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001_002E&for=tract:*&in=state:36&in=county:081&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001_002E&for=tract:*&in=state:36&in=county:085&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+
+Poverty and race:
+https://api.census.gov/data/2015/acs/acs5?get=B17001A_002E,B17001B_001E,B17001C_002E,B17001D_002E,B17001E_002E,B17001F_002E,B17001G_002E,B17001H_002E,B17001I_002E&for=tract:*&in=state:36&in=county:005&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001A_002E,B17001B_001E,B17001C_002E,B17001D_002E,B17001E_002E,B17001F_002E,B17001G_002E,B17001H_002E,B17001I_002E&for=tract:*&in=state:36&in=county:047&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001A_002E,B17001B_001E,B17001C_002E,B17001D_002E,B17001E_002E,B17001F_002E,B17001G_002E,B17001H_002E,B17001I_002E&for=tract:*&in=state:36&in=county:061&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001A_002E,B17001B_001E,B17001C_002E,B17001D_002E,B17001E_002E,B17001F_002E,B17001G_002E,B17001H_002E,B17001I_002E&for=tract:*&in=state:36&in=county:081&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+https://api.census.gov/data/2015/acs/acs5?get=B17001A_002E,B17001B_001E,B17001C_002E,B17001D_002E,B17001E_002E,B17001F_002E,B17001G_002E,B17001H_002E,B17001I_002E&for=tract:*&in=state:36&in=county:085&key=bbbaa5bc61ecab63fdf9e0b685d4a49a89471a5f
+
+PS (WHITE) B17001A_002E
+PS (BLACK) B17001B_002E
+PS (Native) B17001C_002E
+PS (Asian) B17001D_002E
+PS (NH/Pacific Islander) B17001E_002E
+PS (Other) B17001F_002E
+PS (Two or more) B17001G_002E
+PS (Non Hispanic White) B17001H_002E
+PS (Hispanic/Latino) B17001I_002E
+
+
